@@ -291,6 +291,9 @@ body {
     .inputField {
       padding: 10px;
     }
+    .search-input{
+      display: none;
+    }
   }
 /* media queries begin */
 @media screen and (max-width: 920px) { 
